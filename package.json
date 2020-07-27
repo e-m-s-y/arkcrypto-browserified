@@ -1,5 +1,8 @@
 {
-  "version": "0.0.1",
+  "name": "@emsy/arkcrypto-browserified",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "emsy",
   "dependencies": {
     "@arkecosystem/crypto": "^2.6.0-next.11",
     "big-integer": "^1.6.48"
@@ -10,5 +13,19 @@
   },
   "scripts": {
     "build": "webpack"
-  }
+  },
+  "homepage": "https://github.com/e-m-s-y/arkcrypto-browserified",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-m-s-y/arkcrypto-browserified.git"
+  },
+  "bugs": {
+    "url": "https://github.com/e-m-s-y/arkcrypto-browserified/issues"
+  },
+  "keywords": [
+    "arkecosystem",
+    "plugin",
+    "arkcrypto",
+    "browserified"
+  ]
 }
